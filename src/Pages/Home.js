@@ -7,6 +7,7 @@ function Home ({history}){
     return(
         <>
         <Navbar history={history}/>
+
         <CenteredGrid />
         </>
     )
